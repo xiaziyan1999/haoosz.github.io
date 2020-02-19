@@ -5,7 +5,7 @@ layout: default
 
 I am an undergraduate student in Artificial Intelligence and Automation at **Huazhong University of Science and Technology (HUST)**. I am advised by Professor Dongrui Wu and research in machine learning and brain-computer interface in his lab. I have received th offer of CSST summer intern at **University of California, Los Angeles (UCLA)**. 
 
-My interest lies in the field of **Computer Vision**, **Machine Learning** and **Biological information processing**. [[CV]](./assets/cv/ShaozheHAO_CV.pdf)
+My interest lies in the field of **Computer Vision**, **Machine Learning** and **Biological information processing**. [[CV]](./assets/cv/ShaozheHao_CV.pdf)
 
 ***
 
