@@ -1,2 +1,2 @@
 # haoosz.github.io
-Here is my Github Page, credits to [Jon Barron](https://jonbarron.info/).
+Here is my homepage, credits to [Jon Barron](https://jonbarron.info/).
